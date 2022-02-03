@@ -1,2 +1,2 @@
 # Responsive-Sidebar-Menu
-A Responsive Sidebar Menu made with HTML, CSS &amp; JavaScript
+A Responsive Sidebar Menu made with HTML5, CSS3 &amp; JavaScript
